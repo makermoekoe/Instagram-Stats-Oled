@@ -1,7 +1,7 @@
 # Instagram-Stats-Oled
 
 <div>
-<img src="docs/oled.png" height="200px" style="margin:5px">
+<img src="docs/oled.png" height="300px" style="margin:5px">
 </div>
 
 This is just a 5 minute project for the Instagram lovers.
@@ -17,10 +17,10 @@ Moreover you have to install libraries for the oled display. If not already done
 
 Last step is to add your wifi credentials to the following lines of the sketch and to enter your's or anybody's Instagram username.
 
-'''
+```
 char ssid[] = "XXX";       // your network SSID (name)
 char password[] = "XXX";  // your network key
-'''
-'''
+```
+```
 String userName = "maker.moekoe";
-'''
+`300`
