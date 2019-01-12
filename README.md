@@ -1,8 +1,7 @@
 # Instagram-Stats-Oled
 
-<div>
-<img src="docs/oled.png" height="300px" style="margin:5px">
-</div>
+<a href="https://www.instagram.com/p/BsdeiV0oKy9/?utm_source=ig_web_button_share_sheet"><img src="docs/oled.png" width="300px"></a>
+(Click on the image for a small video.)
 
 This is just a 5 minute project for the Instagram lovers.
 To build this tiny notification display you just need two things:
@@ -23,4 +22,4 @@ char password[] = "XXX";  // your network key
 ```
 ```
 String userName = "maker.moekoe";
-`300`
+```
