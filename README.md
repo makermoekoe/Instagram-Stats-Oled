@@ -1,6 +1,7 @@
 # Instagram-Stats-Oled
 
 <a href="https://www.instagram.com/p/BsdeiV0oKy9/?utm_source=ig_web_button_share_sheet"><img src="docs/oled.png" width="300px"></a>
+
 (Click on the image for a small video.)
 
 This is just a 5 minute project for the Instagram lovers.
